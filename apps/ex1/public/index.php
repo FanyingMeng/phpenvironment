@@ -9,6 +9,10 @@
 <body>
     <h1 class="blue">Intro to PHP</h1>
     <a href="strings.php">Strings</a><br/>
-    <a href="dates.php">Dates</a>
+    <a href="dates.php">Dates</a><br/>
+    <a href="constants.php">Constants</a><br/>
+    <a href="function.php">Function</a><br/>
+    <a href="ifstatements.php">If statements</a><br/>
+    <a href="oop.php">OOP</a><br/>
 </body>
 </html>
